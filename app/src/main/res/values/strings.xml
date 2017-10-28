@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="textHeadlineString">BMI calculator</string>
+    <string name="textHintMassField">Enter body mass in kg</string>
+    <string name="textHintHeightField">Enter height in m (e.g. 1.75)</string>
+    <string name="textBMIResultField">Your BMI is </string>
+    <string name="textResultBMI"></string>
+    <string name="textHintResultValue">0.00</string>
+    <string name="textButton">Calculate</string>
+</resources>
